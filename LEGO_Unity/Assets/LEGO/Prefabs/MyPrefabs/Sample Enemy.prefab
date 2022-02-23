@@ -7386,7 +7386,7 @@ GameObject:
   - component: {fileID: 7116950689048408653}
   - component: {fileID: 6335213626689364006}
   m_Layer: 0
-  m_Name: Starter Bricks
+  m_Name: Sample Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
